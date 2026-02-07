@@ -4,7 +4,7 @@ Frontend development and verification tools for Claude Code.
 
 ## Overview
 
-The frontend plugin helps you write, test, and verify UI code with comprehensive browser testing workflows. After making frontend changes, automatically verify them in Chrome with desktop and mobile views.
+The frontend plugin helps you write, test, and verify UI code with comprehensive browser testing workflows and SEO optimization. Verify frontend changes in Chrome, ensure responsive design, optimize content for search engines, and validate factual accuracy.
 
 ## Skills
 
@@ -32,6 +32,35 @@ Comprehensive verification workflow that:
 "Verify the login page in Chrome and mobile"
 "Test the new navigation menu across viewports"
 "Check if the dashboard is responsive"
+```
+
+### seo-verification
+
+Complete SEO audit and content verification that:
+- Checks meta tags and technical SEO setup
+- Analyzes keyword optimization
+- Verifies content quality and readability
+- Fact-checks claims with authoritative sources
+- Validates schema markup (JSON-LD)
+- Assesses E-E-A-T signals (Experience, Expertise, Authoritativeness, Trustworthiness)
+- Audits images and internal/external links
+- Tests mobile-friendliness and page speed
+- Provides automated audit scripts
+
+**Use when:**
+- After publishing new articles or blog posts
+- Before launching landing pages
+- After updating existing content
+- When optimizing for search engines
+- Before submitting content for review
+- After making significant content changes
+
+**Example usage:**
+```
+"Audit the SEO of the lice removal guide article"
+"Verify the blog post has proper meta tags and facts are sourced"
+"Check if the landing page is optimized for search engines"
+"Fact-check all claims in the medical article"
 ```
 
 ## Installation
