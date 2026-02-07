@@ -1,0 +1,8 @@
+{
+  "name": "frontend",
+  "version": "1.0.0",
+  "description": "Frontend development and verification tools. Write UI code, test in Chrome desktop and mobile views, verify responsive design, and ensure accessibility compliance.",
+  "author": {
+    "name": "Hadrien Baradel"
+  }
+}
